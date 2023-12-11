@@ -17,3 +17,6 @@ Outlined below is a structured process for real estate price prediction, designe
 6. **Model Training:** Train the selected model on the training data, refining its parameters to ensure precise predictions and optimal performance.
 
 In the context of Real Estate Price Prediction, the necessity of historical data incorporating diverse features that exert an impact on property prices is paramount. A fitting dataset for this purpose has been identified and is available for download [here](insert link).
+
+## Summary
+Real Estate Price Prediction entails the forecasting of future property values, encompassing houses, apartments, and commercial buildings. The overarching objective is to furnish precise property rates, aiding buyers, sellers, investors, and real estate professionals in making well-informed decisions throughout real estate transactions. Your engagement and inquiries are welcome in the comments section below. I trust you found this article on Real Estate Price Prediction with Machine Learning using Python informative and encourage you to pose any pertinent questions.
